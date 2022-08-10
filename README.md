@@ -1,1 +1,1 @@
-# Quick-CapsNet
+# FC-CapsNet
